@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": 1, "title": "Wahyu Hidayatulloh" },
+    { "id": 2, "title": "Deni Jevita" },
+    { "id": 3, "title": "Kulo Wahyu Mbok" }
+  ],
+  "movie": [
+    { "id": 1, "title": "Avenger 1", "duration": "2 hours" },
+    { "id": 2, "title": "Mushishi", "duration": "2 hours" }
+  ]
+}
