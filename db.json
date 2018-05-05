@@ -1,11 +1,1753 @@
-{
-  "users": [
-    { "id": 1, "title": "Wahyu Hidayatulloh" },
-    { "id": 2, "title": "Deni Jevita" },
-    { "id": 3, "title": "Kulo Wahyu Mbok" }
-  ],
-  "movie": [
-    { "id": 1, "title": "Avenger 1", "duration": "2 hours" },
-    { "id": 2, "title": "Mushishi", "duration": "2 hours" }
-  ]
+{  
+   "result":{  
+      "count":"274",
+      "event":{  
+         "date":"2000/01/11",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Indosiar Visual Mandiri yang ke-5 dari siaran langusng bernama quotSemarak Badai Pasti Berlaluquot.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/01/23",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Televisi Publiksiaran Indonesia yang ke-9.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/03/30",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) ANteve yang ke-7.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/03/30",
+         "description":"Rakyat Aceh menuntut referendum",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/03/30",
+         "description":"Maraknya penolakan terhadap pencabutan TAP 25\/MPRS\/1966",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/03/30",
+         "description":"Amandemen pasal 29 UUD 45 dipersoalkan",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/03/30",
+         "description":"Munculnya Ketetapan MPR nomor VI\/MPR\/2000 dan Ketetapan MPR nomor VII\/MPR\/2000 yang memisahkan Kepolisian RI (Polri) dari struktur Tentara Nasional Indonesia",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/06/04",
+         "description":"Gempa bumi Bengkulu 2000.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/06/04",
+         "description":"Pekan Olahraga Nasional XV Surabaya Jawa Timur",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/07/30",
+         "description":"RCTI, SCTV, TPI, ANTeve dan Indosiar resmi menghapus wajib relai dari Televisi Republik Indonesia juga program berita-berita seperti : Berita Nasional, Dunia Dalam Berita, Pidato Presiden Republik Indonesia, Laporan Khusus dan Berita Terakhir.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/07/30",
+         "description":"SCTV resmi meluncurkan situs portal berita Liputan6.com.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/07/30",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Televisi Republik Indonesia yang ke-38, Rajawali Citra Televisi Indonesia yang ke-11 dan Surya Citra Televisi Indonesia yang ke-10 dari mengudara satu tahun dasawarsa yang sepuluh tahun perjalanan dari Surya Citra Media.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/07/30",
+         "description":"Olimpiade musim panas ke 27",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/10/17",
+         "description":"Banten diresmikan sebagai provinsi di Indonesia.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/11/01",
+         "description":"Ujungpandang secara resmi berganti nama menjadi Makassar.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/11/25",
+         "description":"Siaran langsung upacara diresmikan mengudara pertama kali siaran perdana bersecara nasional stasiun berita televisi MetroTV.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2000/12/24",
+         "description":"Terjadi sejumlah serangan bom di sejumlah gereja di Indonesia.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/01",
+         "description":"Diresmikan Palembang TV resmi bersiaran memulai pelantikan Abel (Marsha Aruan) dan Dinda (Juwita Daniati) sebagai Walikota dan Wakil Walikota dari Kota Palembang disusul dengan pembentukan Walikota dari Kota Palembang pada masa bakti 2005-sekarang.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/01",
+         "description":"Turki mereformasi mata uangnya ''Lira''. 1.000.000 Lira lama (TRL) dikonversikan menjadi 1 Lira Turki Baru (TRY\/YTL).",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/03",
+         "description":"Ali al-Haidri, gubernur Bagdad dibunuh.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/04",
+         "description":"Tim F1 Sauber resmi membatalkan peluncuran mobil baru mereka C24 di Malaysia.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/09",
+         "description":"Perang saudara di Sudan antara daerah utara dan selatan berakhir setelah berlangsung selama 21 tahun dengan ditanda tanganinya persetujuan damai.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/10",
+         "description":"Mahmud Abbas (Abu Mazen) terpilih sebagai presiden Palestina pengganti Yasser Arafat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/15",
+         "description":"Global TV resmi berstatus siaran media televisi nasional dan meluncurkan beberapa program baru.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/17",
+         "description":"Mantan Perdana Menteri Republik Rakyat Cina, Zhao Ziyang meninggal dunia pada usia 85 tahun.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/18",
+         "description":"Airbus A380 diluncurkan.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/24",
+         "description":"Gempa berkekuatan 6,2 SR mengguncang Palu, Sulawesi Tengah.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/30",
+         "description":"Pemilu Irak pertama setelah jatuhnya rezim Saddam Hussein.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/01/30",
+         "description":"SCTV resmi ganti logo.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/02",
+         "description":"Gempa berkekuatan 5,2 SR di bagian selatan Kabupaten Garut merobohkan puluhan rumah dan merusak ratusan rumah lainnya. Tercatat juga adanya gempa susulan di Palu serta gempa di Pulau Bali dan Lombok.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/09",
+         "description":"Pesawat Lion Air tergelincir di Bandara Hasanuddin, Makassar.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/10",
+         "description":"Pemilu demokratis pertama di Arab Saudi. Wanita tidak berhak memilih.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/10",
+         "description":"Korea Utara secara resmi mengaku mengembangkan senjata nuklir.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/10",
+         "description":"Pangeran Charles mengumumkan akan menikahi Camilla Parker Bowles.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/11",
+         "description":"Pesawat Mandala Airlines tergelincir di Bandara Achmad Yani, Semarang.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/13",
+         "description":"Hasil pemilu Irak diumumkan dengan kemenangan kelompok Syi'ah.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/14",
+         "description":"Presiden Indonesia Susilo Bambang Yudhoyono mengadakan pertemuan dengan Perdana Menteri Malaysia Abdullah Ahmad Badawi untuk menyelesaikan masalah TKI ilegal.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/14",
+         "description":"Musibah pertambangan terburuk di RRC selama 15 tahun terjadi di provinsi Liaoning. 203 orang meninggal dalam kecelakaan yang disebabkan ledakan gas tersebut.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/14",
+         "description":"Sebuah bom meledak dekat mobil yang ditumpangi mantan Perdana Menteri Lebanon Rafik Hariri dan menewaskannya bersama 9 orang lainnya.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/16",
+         "description":"Transparency International Indonesia mengumumkan Jakarta sebagai kota paling korup di Tanah Air.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/16",
+         "description":"Sebuah ledakan besar terjadi di Provinsi Bushehr, Iran, dekat dengan pusat reaktor nuklir.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/16",
+         "description":"Protokol Kyoto secara resmi mulai berlaku hari ini sejak pukul 6 pagi UTC.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/17",
+         "description":"Sebuah bom mobil meledak di Provinsi Narathiwat, Thailand. Sedikitnya 5 orang tewas dan 40 orang terluka.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/18",
+         "description":"Dua reporter Metro TV, wartawan Meutya Hafid dan juru kamera Budiyanto disandera ketika bertugas di Irak. Keduanya dibebaskan beberapa hari kemudian.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/19",
+         "description":"Gempa bumi berkekuatan 6,9 skala Richter mengguncang Bau-Bau,",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/19",
+         "description":"Di Irak, serangan bom bunuh diri menewaskan sedikitnya 30 orang saat berlangsungnya perayaan Ashura, hari tersuci umat Muslim Syi'ah.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/21",
+         "description":"Longsor di TPA Sampah Leuwigajah di Kabupaten Bandung setidaknya 67 orang tewas tertimbun.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/22",
+         "description":"Pesawat Cassa 212-200 milik Polri jatuh di laut dekat Bandara Sarmi, Papua sehingga menewaskan 15 orang.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/22",
+         "description":"Gempa bumi berkekuatan 6,4 SR mengguncang kota Zarand di Provinsi Kerman, Iran. Sedikitnya 546 orang tewas dan seribu orang luka-luka.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/02/28",
+         "description":"Pemerintah Lebanon pimpinan Omar Karami yang pro-Suriah mengundurkan diri.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/03/01",
+         "description":"Meski ditolak DPR, harga BBM resmi naik rata-rata sebesar 29 persen kecuali untuk minyak tanah rumah tangga yang tetap Rp 700\/liter, sehingga memicu demonstrasi besar-besaran.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/03/03",
+         "description":"Jumlah tentara Amerika Serikat yang tewas di Irak sudah menembus angka 1.500.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/03/03",
+         "description":"Terdakwa kasus bom Bali 2002, Abu Bakar Ba'asyir divonis penjara 2 tahun 6 bulan.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/03/03",
+         "description":"Steve Fossett yang menerbangkan pesawat GlobalFlyer berhasil mengelilingi dunia sendirian tanpa berhenti dan mengisi bahan bakar.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/03/05",
+         "description":"Homo floresiensis yang ditemukan di pulau Flores, Indonesia dipastikan sebagai spesies baru yang terpisah dari Homo sapiens dan diberikan genus Homo, berdasarkan pemetaan otak yang dilakukan ilmuwan ''Florida State University''.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/03/07",
+         "description":"Carlos Mesa, presiden Bolivia, mengundurkan diri.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/03/08",
+         "description":"Aslan Maskhadov, presiden Chechnya yang memimpin perlawanan gerilya, tewas dalam suatu operasi militer Rusia.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/03/10",
+         "description":"Omar Karami dilantik kembali sebagai Perdana Menteri Lebanon 10 hari setelah mengundurkan diri.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/03/28",
+         "description":"Gempa bumi Sumatra Maret 2005 terjadi hanya 3 bulan selepas gempa bumi Samudra Hindia. Ini merupakan gempa terbesar kedua sejak 1965.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/04/11",
+         "description":"55 Cancri f ditemukan oleh J. Wisdon yang berjarak 41 tahun cahaya dari bumi.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/05/28",
+         "description":"Bom meledak di Pasar Tentena, Poso-Sulawesi Tengah.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/08/15",
+         "description":"Penandatanganan perjanjian damai RI-GAM di Helsinki-Finlandia.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/10/01",
+         "description":"Bom Bali 2005: Terjadi lagi pengeboman di Bali, hampir tiga tahun sejak kejadian pada tahun 2002 sedikitnya 25 orang tewas.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/10/08",
+         "description":"Gempa bumi berkekuatan 7.6 SR mengguncang Pakistan, Afghanistan dan India yang terjadi 10 bulan setelah Tsunami 2004. Jumlah korban diperkirakan 79,000 orang.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2005/12/12",
+         "description":"Gempa yang terjadi di pegunungan Hindu Kush hanya 2 bulan setelah gempa 8 Oktober. Gempa yang terjadi setelah 13 tahun Tsunami Flores.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006",
+         "description":"Rusia menghentikan suplai gas alam ke Ukraina karena perbedaan pendapat mengenai masalah harga. Masalah ini diselesaikan tiga hari kemudian.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006",
+         "description":"Banjir bandang di Jember, Jawa Timur. Sedikitnya 63 orang tewas.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006",
+         "description":"Pengunjuk rasa Suriah membakar kedutaan besar Denmark dan Norwegia.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006",
+         "description":"ang ke-44 dari siaran langsung bernama quotLembaga Penyiaran Publikquot,Rajawali Citra Televisi Indonesia yang ke-17 dari siaran langsung bernama quotSweet Seventen RCTIquot dan Surya Citra Televisi Indonesia yang ke-16 Mulai tanggal 25 Agustus yang malam puncak penghargaan SCTV Awards 2006",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006",
+         "description":"'Sepak bola'': 9 Juni\u20139 Juli - Piala Dunia Jerman 2006",
+         "lang":"id",
+         "category1":"Olahraga",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/02",
+         "description":"Sebuah ''rink'' ''ice skating'' di Jerman runtuh 15 orang tewas.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/03",
+         "description":"Sebuah ledakan di tambang batubara di West Virginia, Amerika Serikat, menyebabkan 13 orang terperangkap. Hanya satu orang yang selamat.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/03",
+         "description":"PM Israel, Ariel Sharon, terserang ''stroke'' dan jatuh dalam keadaan koma. Posisinya digantikan wakilnya, Ehud Olmert untuk sementara.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/03",
+         "description":"Tanah longsor di dusun Cijeruk, Banjarnegara, Jawa Tengah 76 orang meninggal dunia.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/11",
+         "description":"Merangka Peringati Hari Ulang Tahun (HUT) Indosiar Visual Mandiri yang ke-11 dari siaran langsung bernama quotSemarak 11 Tahun Kita Bersamaquot dari siaran langsung mulai 19:00 sampai 24:00 WIB.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/12",
+         "description":"362 jemaah haji tewas terinjak-injak saat melakukan lempar jumrah di Mina.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/15",
+         "description":"Michelle Bachelet dinyatakan menang dalam putaran kedua pemilihan presiden Chili.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/18",
+         "description":"43 warga Papua melarikan diri ke Australia untuk meminta suaka karena mengklaim terjadi genosida di Papua.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/19",
+         "description":"Wahana antariksa ''New Horizons'' yang akan melintasi Pluto, diluncurkan.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/20",
+         "description":"Timor Timur menyampaikan laporan pembantaian warganya oleh Indonesia dari 1975-1999 kepada PBB. Menurut laporan tersebut, lebih dari 100.000 orang meninggal dunia akibat kelaparan yang disengajai.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/22",
+         "description":"An\u00edbal Cavaco Silva terpilih sebagai Presiden Portugal.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/23",
+         "description":"Merangka Peringati Hari Ulang Tahun (HUT) Televisi Pendidikan Indonesia yang ke-15 dari siaran langsung bernama quotMakin Indonesia Makin Asyikquot dari siaran langsung mulai 19:00 sampai 24:00 WIB.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/24",
+         "description":"Miyeegombo Enkhbold dari Partai Revolusioner Rakyat Mongolia menjadi Perdana Menteri Mongolia.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/24",
+         "description":"Sekelompok peneliti internasional menemukan OGLE-2005-BLG-390Lb, sebuah planet ekstrasurya yang paling mirip dengan Bumi.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/24",
+         "description":"Pemilu parlemen di Palestina Hamas menang.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/24",
+         "description":"Google menyatakan bahwa mesin pencarinya akan disensor di Republik Rakyat Cina.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/29",
+         "description":"Sheikh Sabah Al-Ahmad Al-Jaber Al-Sabah menjadi Emir Kuwait, menggantikan Saad Al-Abdullah Al-Salim Al-Sabah yang baru menjabat selama seminggu.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/29",
+         "description":"KM Citra Mandala Bahari tenggelam di Selat Rote sedikitnya 110 orang selamat dan 50 hilang.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/01/29",
+         "description":"Ben Bernanke menggantikan Alan Greenspan sebagai pemimpin ''Federal Reserve'' (Bank Cadangan AS).",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/02/03",
+         "description":"Sebuah kapal Mesir berpenumpang sejumlah 1.300 orang tenggelam di Laut Merah hanya 390 orang selamat.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/02/03",
+         "description":"Sedikitnya 88 orang tewas terinjak-injak saat mengantri di sebuah stadion dekat Manila.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/02/06",
+         "description":"Stephen Harper dilantik menjadi Perdana Menteri Kanada menggantikan Paul Martin.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/02/07",
+         "description":"Para peneliti mengumumkan penemuan puluhan spesies satwa dan tumbuhan baru di sekitar Pegunungan Foja, Papua.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/02/08",
+         "description":"Sebuah makam dari sekitar abad ke-14 SM yang masih utuh ditemukan di Lembah Para Raja di Mesir.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/02/10",
+         "description":"26 Februari - Olimpiade musim dingin di Torino, Italia",
+         "lang":"id",
+         "category1":"Olahraga",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/02/12",
+         "description":"Pelaksanaan Grand Prix A1 di Sirkuit Sentul, Kabupaten Bogor-Indonesia.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/02/13",
+         "description":"Djoko Suyanto menjadi Panglima TNI.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/02/28",
+         "description":"Saluran Astro Nusantara resmi bersiaran.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/03/15",
+         "description":"26 Maret - ''Commonwealth Games'' di Melbourne, Australia",
+         "lang":"id",
+         "category1":"Olahraga",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/03/28",
+         "description":"Pemilu parlemen Israel",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/04/25",
+         "description":"Girija Prasad Koirala mulai menjabat sebagai Perdana Menteri Nepal untuk keempat kalinya.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/05/29",
+         "description":"Awal semburan lumpur panas PT Lapindo di Sidoarjo-Jawa Timur.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/07/02",
+         "description":"Pemilu presiden di Meksiko",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/07/05",
+         "description":"SPMB (Seleksi Penerimaan Mahasiswa Baru) tahun 2006 diadakan serentak di seluruh Indonesia selama dua hari, hingga 6 Juli 2006",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/08/09",
+         "description":"Merangka Peringati Hari Ulang Tahun (HUT) Lativi yang ke-4 dari siaran langsung bernama quot4 tahun lebih pastiquot",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/08/24",
+         "description":"Konferensi Astronom Dunia 2006: Tata Surya hanya memiliki 8 planet: Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, dan Neptunus. Pluto tidak dianggap lagi sebagai planet.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"15 Desember - ''Asian Games'' ke-15 di Doha, Qatar",
+         "lang":"id",
+         "category1":"Olahraga",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"Januari: ''Bangka-Belitung'', Bengkulu Utara, Cianjur, Tapanuli Tengah, Tasikmalaya (kabupaten)",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"Februari: Batam, Bontang, Kutai Timur, Nias, ''Sulawesi Tengah''",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"Maret: Demak, Grobogan, ''Irian Jaya Barat'', Malinau, Karimun, Pelalawan",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"April: Bolaang Mongondow, Kutai Barat, Rokan Hulu, Tanjung Jabung Timur",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"Mei: Balikpapan, Banggai, Barito Selatan, Nunukan, Sambas, Tebo",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"Juni: Boalemo, Bungo, Cimahi (kota), Lubuk Linggau, Muaro Jambi, Pagar Alam, Prabumulih, Rokan Hilir, Siak, Tasikmalaya (kota), Tuban",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"Juli: Ambon, Kepulauan Banggai, Lembata, Paniai, Pekanbaru, Puncak Jaya, Salatiga",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"Agustus: Kulonprogo, Landak",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"September: Bau-Bau, Jayapura (kabupaten), Yogyakarta (kota)",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"Oktober: Banjarnegara, Buton, Kendari (kota), Pati, Sangihe Talaud, Simeulue",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"November: ''Gorontalo'', Majene, Mimika",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"Desember: Musi Banyuasin, Pemalang, Pidie",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/01",
+         "description":"?: Aceh Tenggara, Batu (kota), Buleleng, Kampar, Maluku Tenggara Barat, Sorong (kota)",
+         "lang":"id",
+         "category1":"Pemilihan kepala daerah (pilkada) di Indonesia",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/10",
+         "description":"Augusto Pinochet (mantan diktator Chile) meninggal dunia.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/15",
+         "description":"TV7 resmi berganti nama menjadi Trans 7",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/30",
+         "description":"Saddam Hussein (mantan Presiden Irak) dieksekusi mati dengan digantung.",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/30",
+         "description":"Misi luar angkasa berawak ketiga Tiongkok, ''Shenzhou VII''",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/30",
+         "description":"Airbus A380 mulai dioperasikan",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/30",
+         "description":"Rilis sistem operasi komputer Windows Vista",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/30",
+         "description":"Rilis konsol permainan PlayStation 3 dan Nintendo Revolution",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2006/12/30",
+         "description":"Stadion Wembley di Inggris akan dibuka kembali setelah direnovasi",
+         "lang":"id",
+         "category1":"Umum",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2007/09/02",
+         "description":"ingga 8 September: Olimpiade Sains Nasional VI dilaksanakan di Surabaya",
+         "lang":"id",
+         "category1":"September 2007",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2008",
+         "description":"15: Piagam ASEAN mulai berlaku dan mengikat seluruh anggotanya.",
+         "lang":"id",
+         "category1":"Desember 2008",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2008/01/20",
+         "description":"26 Januari, ASEAN ParaGames diadakan di Nakhon Ratchasima, Thailand",
+         "lang":"id",
+         "category1":"Desember 2008",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2008/05/11",
+         "description":"18 Mei, Thomas Cup dan Uber Cup diadakan di Jakarta, Indonesia.",
+         "lang":"id",
+         "category1":"Desember 2008",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2008/07/08",
+         "description":"19 Juli, Pekan Olahraga Nasional diadakan di Samarinda, Kalimantan Timur",
+         "lang":"id",
+         "category1":"Desember 2008",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2008/08/08",
+         "description":"24 Agustus, Olimpiade diadakan di Beijing, China",
+         "lang":"id",
+         "category1":"Desember 2008",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2008/08/30",
+         "description":"ajang balap mobil Superleague Formula memulai balapan perdananya di Donington Park, Inggris",
+         "lang":"id",
+         "category1":"Desember 2008",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2008/09/06",
+         "description":"17 September, Paralimpiade diadakan di Beijing, China",
+         "lang":"id",
+         "category1":"Desember 2008",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2008/10/12",
+         "description":"18 Oktober, Commonwealth Youth Games diadakan di Pune, India",
+         "lang":"id",
+         "category1":"Desember 2008",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2008/10/18",
+         "description":"26 Oktober, Asian Beach Games diadakan di Bali, Indonesia",
+         "lang":"id",
+         "category1":"Desember 2008",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009",
+         "description":"Tahun Baru Masehi -  Merangka peringati Hari Ulang Tahun (HUT) Rajawali Citra Televisi Indonesia yang ke-20 dibuka oleh Studio RCTI, Jalan Raya Perjuangan Nomor. 3-4 Komplek Kawasan RCTI, Kawasan Duri Kepa, Kebon Jeruk, Jakarta Barat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009",
+         "description":"aitu pada tanggal 1 Ramadhan 1430 Hijriah atau pada tanggal 22 Agustus 2009.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009",
+         "description":"ang ke-20 dari pertama kali memproduksi program musik oleh Dahsyat dari siaran langusng bernama quotDahsyatnya HUT RCTI ke-20quot tayangkan siaran langsung hadir selama dua hari penuh pada tanggal 23 Agustus mulai sejak pukul 08:00 sampai 17:30 dan 24 Agustus mulai sejak pukul 07:00 sampai 17:30 WIB dengan durasi selama 20 jam penuh yang diselenggarakan dari 5 titik di area RCTI yaitu depan Air Mancur (Panggung Utama), Lapangan Parkir Studio 4 RCTI, Studio 1 RCTI, Studio 4 RCTI dan Studio 6 RCTI, Jalan Raya Perjuangan Nomor. 3-4 Komplek Kawasan RCTI, Kawasan Duri Kepa, Kebon Jeruk, Jakarta Barat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009",
+         "description":"ang ke-20 adalah pertunjukan master Limbad, salah satu finalis The Master yang akan menggantungkan diri diatas gedung 20 meter. Tak Hanya itu Dahsyat juga menghadirkan 200 artis papan atas Indonesia.Selain itu, quotDahsyatnya HUT RCTI ke-20quot akan diramaikan dengan puluhan stand Bazaar dan Pensi dari Sekolah terkemuka seperti SMA dan SMK yang akan menyuguhkan sejuta aksi menarik mulai dari dance, paduan suara, marching band sampai dengan teater mulai acara quotDahsyatnya HUT RCTI Ke-20quot juga akan menghadirkan informasi terbaru dari aksi Limbad yang beraksi mulai tanggal 23 Agustus pada pukul 23:00 sampai 00:00 dan berakhir di tanggal 24 Agustus pada ukul 19:00 sampai 20:00 WIB. Limbad akan berdiri di atas tower setinggi 20 meter selama 20 jam dan akan terjun untuk membuka acara Konser Akbar Menuju HUT RCTI ke-20. Sang Fakir ini akan membuat aksi spektakuler untuk menguji daya tahan tubuhnya diusia yang tidak lagi muda dan sedang pula berpuasa.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009",
+         "description":"ang ke-20 dari pertama kali memproduksi program berita oleh Seputar Indonesia dari siaran langusng bernama quotDahsyatnya HUT RCTI ke-20quot tayangkan siaran langsung pada tanggal 24 Agustus mulai sejak pukul 05:00 sampai 15:00 WIB yang diselenggarakan dari 5 titik di area RCTI yaitu depan Lapangan Parkir Studio 5 RCTI dan Studio 5 RCTI, Jalan Raya Perjuangan Nomor. 3-4 Komplek Kawasan RCTI, Kawasan Duri Kepa, Kebon Jeruk, Jakarta Barat bersama Louisa Kusnandar dan Irfan Bachdim edisi Seputar Indonesia Pagi dan Alyssa Soebandono edisi Seputar Indonesia Malam yang diselenggarakan dari Lapangan Parkir Studio 5 RCTI, Jalan Raya Perjuangan Nomor. 3-4 Komplek Kawasan RCTI, Kawasan Duri Kepa, Kebon Jeruk, Jakarta Barat serta Aiman Witjaksono edisi Seputar Indonesia Siang, Putra Nababan edisi Seputar Indonesia yang diselenggarakan dari Studio 5 RCTI, Jalan Raya Perjuangan Nomor. 3-4 Komplek Kawasan RCTI, Kawasan Duri Kepa, Kebon Jeruk, Jakarta Barat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/01/11",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Cakrawala Indosiar Visual Mandiri yang ke-14 dari siaran langusng bernama quotSemarak Fantasiquot mulai resmi ganti logo dan tema wajah baru yang bermirip station ident yang logo baru berdaur ulang lagu pada tahun 1992 sampai 1997 dikaryakan oleh CNN International yang beraluran ini disediakan oleh seluruh stasiun televisi kabel di Indonesia adalah sebuah saluran prgoram berita televisi kabel, berlangganan dan berjaringan yang memperkenalkan pertama berasal negara dari Amerika Serikat yang didirikan oleh Ted Turner yang diresmikan upacara pembukaan oleh Liliana Tanaja Tanoesoedibjo di Gedungan Indosiar Television Centre, Jalan Damai Nomor. 11, Dari Kawasan Daan Mogot, Kecamatan Kalideres, Jakarta Barat yang mulai siaran langsung pada pukul 19:00 sampai 00:00 WIB.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/01/20",
+         "description":"Barack Obama disumpah sebagai Presiden Amerika Serikat ke-44.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/01/23",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Televisi Publiksiaran Indonesia yang ke-18 dari siaran langusng bernama quot17 Hati Menjadi 18quot yang diresmikan upacara pembukaan oleh Liliana Tanaja Tanoesoedibjo di Plenary Hall, Gedungan Jakarta Convention Center, Jalan Jenderal Sudirman, Kawasan Gelora, Tanah Abang, Jakarta Pusat yang mulai siaran langsung pada pukul 19:00 sampai 00:00 WIB.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/01/26",
+         "description":"Gerhana matahari cincin terjadi di Indonesia bersamaan dengan perayaan Tahun Baru Imlek 2560.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/02/02",
+         "description":"Gunung Asama di dekat Tokyo meletus dan menyebabkan hujan abu tipis di sebagian kota itu.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/02/02",
+         "description":"Buletin Malam ditutup di Studio 5 RCTI, Jalan Raya Perjuangan Nomor. 3-4 Komplek Kawasan RCTI, Kawasan Duri Kepa, Kebon Jeruk, Jakarta Barat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/02/02",
+         "description":"RCTI memproduksi program keajaiban magican The Master dibuka di Plenary Hall, Gedungan Jakarta Convention Center, Jalan Jenderal Sudirman, Kawasan Gelora, Tanah Abang, Jakarta Pusat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/02/02",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) TvOne yang pertama dari siaran langusng bernama ampquotSatu Tahun Pertama '''1''' Satu Umur Pertamaampquot.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/02/02",
+         "description":"Nuansa Pagi dan Buletin Siang ditutup di Studio 5 RCTI, Jalan Raya Perjuangan Nomor. 3-4 Komplek Kawasan RCTI, Kawasan Duri Kepa, Kebon Jeruk, Jakarta Barat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/02/02",
+         "description":"RCTI resmi berpisah dari Nuansa Pagi, Buletin Siang dan Buletin Malam membuat program Seputar Indonesia yang lahir dari siaran langusng bernama ampquotSatu Seputar Indonesiaampquot yang diresmikan upacara pembukaan oleh Hary Tanoesoedibjo.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/02/02",
+         "description":"Seputar Indonesia Pagi (sebelum bernama Nuansa Pagi) yang resmi bergabung dengan membuat program Seputar Indonesia.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/02/02",
+         "description":"Seputar Indonesia Siang (sebelum bernama Buletin Siang) yang resmi bergabung dengan membuat program Seputar Indonesia.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/02/02",
+         "description":"Seputar Indonesia Malam (sebelum bernama Buletin Malam) yang resmi bergabung dengan membuat program Seputar Indonesia.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/02/02",
+         "description":"Harian Seputar Indonesia resmi ganti logo dan slogan atau motto tagline wajah baru menggantikan oleh Koran SINDO semenatara dari ampquotGali Inspirasiampquot ke ampquotSumber Referensi Terpecayaampquot.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/03/22",
+         "description":"Gunung Redoubt di Alaska meletus, menyebarkan material vulkanik setinggi 15km.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/03/22",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Dahsyat yang ditayangkan memproduksi program musik oleh RCTI yang pertama dari siaran langusng bernama ampquotDahsyatnya Satu Tahunampquot mulai sejak pukul 07:00 sampai 00:00 WIB dengan durasi selama 17 jam penuh yang diselenggarakan dari 5 titik di area RCTI yaitu depan Air Mancur (Panggung Utama), Lapangan Parkir Studio 4 RCTI, Studio 1 RCTI, Studio 4 RCTI dan Studio 6 RCTI, Jalan Raya Perjuangan Nomor. 3-4 Komplek Kawasan RCTI, Kawasan Duri Kepa, Kebon Jeruk, Jakarta Barat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/03/22",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Cakrawala Andalas Televisi Indonesia yang ke-16 dari siaran langusng bernama ampquotFantasik 16ampquot yang diresmikan upacara pembukaan oleh Annindya Bakrie di Plenary Hall, Gedungan Jakarta Convention Center, Jalan Jenderal Sudirman, Kawasan Gelora, Tanah Abang, Jakarta Pusat yang mulai siaran langsung pada pukul 19:00 sampai 00:00 WIB.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/03/22",
+         "description":"Tanggul Situ Gintung jebol dan merenggut nyawa 99 orang",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/03/22",
+         "description":"Malam penganugerahan Panasonic Awards 2009 di Jakarta Theater XXI, Gedungan Bioskop 21, Jalan MH Thamrin, Kawasan Menteng, Menteng, Jakarta Pusat yang mulai siaran langsung pada pukul 21:00 sampai 00:00 WIB.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/03/28",
+         "description":"Pelaksanaan Earth Hour III.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/03/28",
+         "description":"April-Mei - Diadakan pemilu India",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/04/01",
+         "description":"Albania dan Kroasia kunjungi NATO",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/04/06",
+         "description":"Very Idham Henyansah alias Ryan divonis hukuman mati",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/04/09",
+         "description":"Pemilihan anggota lembaga legislatif di Indonesia untuk periode 2009-2014.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/04/21",
+         "description":"Perpustakaan Digital Dunia diresmikan.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/04/24",
+         "description":"Malam penganugerahan Anugerah Musik Indonesia 2009 di Balai Sarbini, Jalan Jenderal Sudirman, Kawasan Gelora, Tanah Abang, Jakarta Pusat yang mulai siaran langsung pada pukul 21:00 sampai 00:00 WIB.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/05/04",
+         "description":"Antasari Azhar diberhentikan sementara jabatannya sebagai ketua KPK oleh Presiden Susilo Bambang Yudhoyono terkait statusnya sebagai tersangka otak pembunuhan Direktur PT Putra Rajawali Banjaran, Nasrudin Zulkarnaen.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/05/15",
+         "description":"Malam penganugerahan Indonesian Movie Awards 2009 di Istora Gelora Bung Karno, Wisma Stadion Utama Gelora Bung Karno, Gedungan Gelanggang Olahraga Bung Karno, Jalan Pintu Satu, Kawasan Senayan, Kelurahan Gelora, Tanah Abang, Jakarta Pusat yang mulai siaran langsung pada pukul 21:00 sampai 00:00 WIB.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/05/29",
+         "description":"Malam penganugerahan SCTV Music Awards 2009 di Plenary Hall, Gedungan Jakarta Convention Center, Jalan Jenderal Sudirman, Kawasan Gelora, Tanah Abang, Jakarta Pusat yang mulai siaran langsung pada pukul 20:00 sampai 00:00 WIB.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/06/05",
+         "description":"Malam penganugerahan Miss Indonesia 2009 di Plenary Hall, Gedungan Jakarta Convention Center, Jalan Jenderal Sudirman, Kawasan Gelora, Tanah Abang, Jakarta Pusat yang mulai siaran langsung pada pukul 21:00 sampai 00:00 WIB.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/06/22",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Daerah Khusus Ibukota Jakarta yang ke-482.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/06/25",
+         "description":"Michael Jackson meninggal dunia.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/07/08",
+         "description":"Pemilihan presiden di Indonesia",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/07/17",
+         "description":"Bom Jakarta 2009 di Hotel Ritz-Carlton Jakarta dan Hotel JW Marriott Jakarta, Jalan Mega Kuningan, Kawasan Kuningan, Kelurahan Senayan, Kebayoran Baru, Jakarta Selatan yaitu sejak pada pada pukul 07:47 hingga 07:57 WIB yang peristiwa bom bunuh diri tersebut menewaskan 9 orang korban dan melukai lebih dari 50 orang lainnya, baik warga Indonesia maupun warga asing dari selain dua bom rakitan berdaya ledak rendah yang meledak tersebut sebuah bom serupa yang tidak meledak ditemukan dari Kamar 1808, Wisma Hotel JW Marriott Jakarta yang ditempati sejak dua hari sebelumnya oleh tamu hotel yang diduga sebagai pelaku pengeboman.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/07/23",
+         "description":"Malam penganugerahan Nickelodeon Indonesia Kids' Choice Awards di Istora Gelora Bung Karno, Wisma Stadion Utama Gelora Bung Karno, Gedungan Gelanggang Olahraga Bung Karno, Jalan Pintu Satu, Kawasan Senayan, Kelurahan Gelora, Tanah Abang, Jakarta Pusat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/08/03",
+         "description":"Hari ini setelah ditutup selama 2-minggu dan setelah melakukan operasi perlengkapan mulai reopened menyelesaikan renovasi kembali di Hotel Ritz-Carlton Jakarta dan Hotel JW Marriott Jakarta, Jalan Mega Kuningan, Kawasan Kuningan, Kelurahan Senayan, Kebayoran Baru, Jakarta Selatan yaitu sejak pada pada pukul 10:00 WIB.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/08/17",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Proklamasi Hari Kemedekaan Republik Indonesia yang ke-64 dari halaman Istana Presiden Republik Indonesia adalah Istana Merdeka letaknya menghadap ke Taman Jakarta Monumen Nasional (Monas) Jalan Medan Merdeka Utara, Kawasan Gambir, Jakarta Pusat. dibacakan oleh Presiden Republik Indonesia adalah Susilo Bambang Yudhoyono:PROKLAMASI{{br}}",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/08/17",
+         "description":"The Master ditutup di Plenary Hall, Gedungan Jakarta Convention Center, Jalan Jenderal Sudirman, Kawasan Gelora, Tanah Abang, Jakarta Pusat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/08/22",
+         "description":"Libur awal berpuasa islam yaitu pada tanggal 1 Ramadhan 1430 Hijriah.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/08/22",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Televisi Republik Indonesia yang ke-47 dari siaran langusng bernama ampquotNostagia Kenangan Sejarah HUT TVRI Ke-47ampquot yang dimeriahkan oleh Inka Christie, Utha Likumahuwa, Rinto Harahap, Nia Daniati, Betharia Sonata, Christine Panjaitan, Iis Sugianto, Charles Hutagalung, Cindy Claudia Harahap, Koes Plus, Eddy Silitonga, Nur Afni Octavia, Harvey Malaiholo, Andre Hehanusa, Rafika Duri dan Chintami Atmanegara yang dilaksanakan di Auditorium TVRI, Gedungan TVRI Stasiun Pusat Jakarta, Jalan Gerbang Pemuda, Kawasan Senayan, Kelurahan Gelora, Tanah Abang, Jakarta Pusat siaran langsung pada pukul 19:30 sampai 22:00 WIB.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/08/22",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Rajawali Citra Televisi Indonesia yang ke-20 dari siaran langusng bernama ampquotKonser Akbar Menuju HUT RCTI Ke-20ampquot dan mengudara dua tahun dasawarsa yang dua puluh tahun perjalanan dari Media Nusantara Citra yang diresmikan upacara pembukaan oleh Hary Tanoesoedibjo di Plenary Hall, Gedungan Jakarta Convention Center, Jalan Jenderal Sudirman, Kawasan Gelora, Tanah Abang, Jakarta Pusat mulai siaran langsung pada pukul 20:00 sampai 00:00 WIB.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/09/02",
+         "description":"Gempa bumi di Tasikmalaya berkekuatan 7,3 SR, gempa ini dirasakan hingga ke pulau Bali.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/09/20",
+         "description":"Libur akhir berpuasa islam yaitu pada tanggal 30 Ramadhan 1430 Hijriah dan besok libur awal hari raya lebaran islam yaitu pada tanggal 1-2 Syawal 1430 Hijriah atau pada tanggal 21-22 September 2009.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/09/21",
+         "description":"22 September - libur awal hari raya lebaran islam yaitu pada tanggal 1-2 Syawal 1430 Hijriah.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/09/30",
+         "description":"Gempa bumi berkekuatan 7,9 SR mengguncang dari Kota Padang yang merupakan ibu kota propinsi Sumatera Barat yaitu sejak pada pukul 17:16:10 WIB yang terbanyaknya 6.234 orang tewas akibat gempa ini yang tersebar di 3 kota amp 4 kabupaten di Sumatera Barat, korban luka berat mencapai 1.214 orang, luka ringan 1.688 orang, korban hilang 1 orang. Sedangkan 135.448 rumah rusak berat, 65.380 rumah rusak sedang, amp 78.604 rumah rusak ringan yang tergempa menyebabkan kerusakan parah di beberapa wilayah di Sumatera Barat seperti Kabupaten Padang Pariaman, Kota Padang, Kabupaten Pesisir Selatan, Kota Pariaman, Kota Bukittinggi, Kota Padangpanjang, Kabupaten Agam, Kota Solok dan Kabupaten Pasaman Barat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/10/08",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Global TV yang ke-7 dari siaran langusng bernama quotLangit ke-7quot dari siaran langsung pada pukul 20:00 sampai 00:00 WIB di Istora Gelora Bung Karno, Wisma Stadion Utama Gelora Bung Karno, Gedungan Gelanggang Olahraga Bung Karno, Jalan Pintu Satu, Kawasan Senayan, Kelurahan Gelora, Tanah Abang, Jakarta Pusat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/10/20",
+         "description":"Susilo Bambang Yudhoyono dan Boediono dilantik menjadi Presiden-Wakil Presiden RI masa bakti 2009-2014.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/11/25",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) MetroTV yang ke-9 dari siaran langusng bernama quotCinta Negerikuquot dari siaran langsung pada pukul 19:00 sampai 21:00 WIB di Auditorium MetroTV, Gedungan Media Group, Jalan Pilar Mas Raya Kaving. A-D, Kawasan Kedoya Selatan, Kebon Jeruk, Jakarta Barat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/12/14",
+         "description":"NASA meluncurkan WISE (Wide-Field Infrared Survey Explorer).",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/12/15",
+         "description":"Merangka peringati Hari Ulang Tahun (HUT) Trans Corp yang ke-8 dari siaran langusng bernama quotTRANS 8ISA Indonesia Bisaquot dari siaran langsung pada pukul 19:00 sampai 00:00 WIB di Plenary Hall, Gedungan Jakarta Convention Center, Jalan Jenderal Gatot Subroto, Kawasan Senayan, Kelurahan Gelora, Tanah Abang, Jakarta Pusat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/12/16",
+         "description":"Malam penganugerahan Festival Film Indonesia 2009 di Hall D1, Wisma Jakarta International Expo, Gedungan Pekan Raya Jakarta, Jalan Pekan Raya, Kawasan Kemayoran, Kemayoran, Jakarta Pusat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/12/16",
+         "description":"Tahun Baru Malam - Malam pergantian tahun menyongsong dari 2009 ke 2010 yang menggelar pesta musik spesial siaran langusng bernama ampquotRCTI Konser Akbar Menuju Tahun Baru Malam 2010ampquot hanya di saluran Kebanggaan Bersama Milik Bangsa. dan Merangka peringati Hari Ulang Tahun (HUT) Rajawali Citra Televisi Indonesia yang ke-20 ditutup oleh Stadion Ancol, Wisma Dunia Fantasi, Gedungan Taman Impian Jaya Ancol, Jalan Lodan Raya Nomor. 1, Kawasan Ancol, Pademangan, Jakarta Utara yang terletak di atas dari semakin gegap gempita begitu pesta kembang api mewarnai langit mulai siap 30 detik bersuara teriak ialah ampquotDoorampquot suara letusan pistol kebakaran api fatal roket yang ditembakkan oleh Gubernur Daerah Khusus Ibukota Jakarta adalah Fauzi Bowo setelah suaranya besar rangers teriakan penghitungan mundur menuju jam 12:00 tengah malam atau 00:00 WIB yang diresmikan upacara penutupan oleh Hary Tanoesoedibjo.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/12/16",
+         "description":"Asian Indoor Games diadakan di Hanoi, Vietnam",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/12/16",
+         "description":"Southeast Asian Games diadakan di Vientiane, Laos",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/12/16",
+         "description":"Universiade Musim Dingin diadakan di Harbin, China",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2009/12/16",
+         "description":"Universiade Musim Panas diadakan di Belgrade, Serbia",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/01/12",
+         "description":"''12 Januari''' \u2014 Gempa bumi 7.0 SR di Haiti",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/01/15",
+         "description":"''15 Januari''' \u2014 Gerhana matahari",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/02/12",
+         "description":"28 Februari''' \u2014 Olimpiade Musim Dingin diadakan di Vancouver, British Columbia, Kanada",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/03/05",
+         "description":"''5 Maret''' \u2014 Gempa bumi di Kota Padang berkekuatan 6,8 Skala Richter",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/03/26",
+         "description":"''26 Maret''' \u2014 Malam penganugerahan Panasonic Gobel Awards 2010",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/03/27",
+         "description":"''27 Maret''' \u2014 Pelaksanaan Earth Hour IV",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/04/10",
+         "description":"''10 April''' \u2014 Pembentukan grup musik SMSH",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/04/27",
+         "description":"''27 April''' \u2014 Perjalanan Kereta api Parahyangan dan Kereta api Argo Gede tujuan Jakarta Gambir - Bandung secara resmi berhenti beroperasi. Perjalanan kedua kereta digantikan oleh Kereta api Argo Parahyangan yang merupakan perpaduan antara kedua kereta tersebut.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/04/27",
+         "description":"'''Mei''' \u2014 Sensus Penduduk Indonesia",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/05/09",
+         "description":"16 Mei''' \u2014 Piala Thomas dan Uber 2010 (Bulu tangkis) diadakan di Kuala Lumpur, Malaysia",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/06/09",
+         "description":"''9 Juni''' \u2014 Malam penganugerahan AMI Awards 2010",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/06/11",
+         "description":"11 Juli''' \u2014 Piala Dunia (sepak bola) diadakan di Afrika Selatan, dan {{timnas|Spanyol|tim nasional Spanyol}} keluar sebagai juara, dengan mengalahkan {{timnas|Belanda}} pada pertandingan final.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/10/03",
+         "description":"14 Oktober''' \u2014 Commonwealth Games 2010 diadakan di Delhi, India",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/10/20",
+         "description":"''20 Oktober''' - MNCTV diluncurkan menggantikan TPI",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/10/25",
+         "description":"''25 Oktober''' \u2014 Gempa Bumi di Kepulauan Mentawai",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/10/26",
+         "description":"''26 Oktober''' \u2014 Meletusnya Gunung Merapi",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/11/02",
+         "description":"''2 November''' \u2014 Pemilu DPR Amerika Serikat.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/11/12",
+         "description":"27 November''' \u2014 Asian Games Musim Panas diadakan di Guangzhou, China",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2010/12/08",
+         "description":"16 Desember''' \u2014 Asian Beach Games diadakan di Muskat, Oman",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/01/29",
+         "description":"Jepang menjuarai Piala Asia AFC 2011.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/02/11",
+         "description":"Hosni Mubarak (Presiden Mesir ke-4) mengundurkan diri dari jabatannya (berkuasa sejak 14 Oktober 1981).",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/02/27",
+         "description":"Berdirinya ''girlband'' Indonesia, Cherrybelle.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/03/11",
+         "description":"Gempa bumi dan tsunami Sendai 2011 dengan kekuatan 9,0 Mw.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/03/19",
+         "description":"Supermoon (''lunar perigee''): Bulan tampak 7% lebih besar daripada biasanya karena jaraknya dengan Bumi hanya sekitar 221.567 mil atau 356.578 kilometer, terdekat dalam 18 tahun terakhir, yang akan berpengaruh pada pasang surut air laut.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/03/25",
+         "description":"Malam penganugerahan Panasonic Gobel Awards 2011.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/03/26",
+         "description":"Pelaksanaan Earth Hour V.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/04/23",
+         "description":"Konser Justin Bieber di Sentul International Convention Center, Bogor.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/04/29",
+         "description":"Pernikahan Pangeran William dan Kate Middleton (pewaris tahta Kerajaan Inggris), dilaksanakan di Istana Buckingham, London.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/08/25",
+         "description":"Perjalanan Kereta api Gajah Wong relasi Jakarta Pasarsenen - Lempuyangan diresmikan.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/11/22",
+         "description":"Indonesia juara umum SEA Games 2011.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/11/22",
+         "description":"All-Africa Games diadakan di Lusaka, Zambia",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/11/22",
+         "description":"Asian Games Musim Dingin diadakan di Almaty, Kazakhstan",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/11/22",
+         "description":"Asian Indoor Games diadakan di Doha, Qatar",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/11/22",
+         "description":"Commonwealth Youth Games diadakan di Douglas, Pulau Man",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/11/22",
+         "description":"Pan American Games diadakan di Guadalajara, Meksiko",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/11/22",
+         "description":"Southeast Asian Games diadakan di Indonesia",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/11/22",
+         "description":"Universiade Musim Dingin diadakan di Erzurum, Turki",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/11/22",
+         "description":"Universiade Musim Panas diadakan di Shenzhen, China",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2011/11/22",
+         "description":"Piala Dunia Wanita 2011 diadakan di Jerman",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012",
+         "description":"\/\/www.survive2012.com\/\">http:\/\/www.survive2012.com\/<\/a> Situs web Survive2012",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012",
+         "description":"\/\/www.december212012.com\/\">http:\/\/www.december212012.com\/<\/a> December212012",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012",
+         "description":"\/\/www.survive2012.com\/why_2012_maya.php\">http:\/\/www.survive2012.com\/why_2012_maya.php<\/a> Perhitungan kalender suku Indian Maya",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012",
+         "description":"\/\/www.2012isreal.com\/\">http:\/\/www.2012isreal.com\/<\/a> 2012isreal",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/01/31",
+         "description":"Ade Namnung, pelawak Indonesia (lahir 1977).",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/02/11",
+         "description":"Whitney Houston, penyanyi Amerika Serikat.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/03/27",
+         "description":"Malam penganugerahan Panasonic Gobel Awards 2012.",
+         "lang":"id",
+         "category1":"Maret",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/04/18",
+         "description":"Sudomo, Mantan Pangkobkamtib.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/04/21",
+         "description":"Malam penganugerahan Miss Indonesia 2012.",
+         "lang":"id",
+         "category1":"April",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/05/31",
+         "description":"Malam penganugerahan Indonesian Movie Awards 2012.",
+         "lang":"id",
+         "category1":"Mei",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/06/04",
+         "description":"Gerhana Bulan supermoon.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/06/09",
+         "description":"1 Juli -  Piala Eropa 2012 di Polandia dan Ukraina",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/07/01",
+         "description":"{{timnas|Spanyol}} menang atas {{timnas|Italia}} dalam final Euro 2012 dengan skor 4-0.",
+         "lang":"id",
+         "category1":"Juli",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/07/04",
+         "description":"Malam penganugerahan Anugerah Musik Indonesia 2012.",
+         "lang":"id",
+         "category1":"Juli",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/07/07",
+         "description":"Indonesian Idol Season 7 ini dimenangkan oleh Regina Ivanova mengalahkan Kamasean Matthews di babak hasil dan reuni.",
+         "lang":"id",
+         "category1":"Juli",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/07/14",
+         "description":"Malam penganugerahan Nickelodeon Indonesia Kids' Choice Awards 2012.",
+         "lang":"id",
+         "category1":"Juli",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/07/21",
+         "description":"Pemerintah Indonesia mengumumkan 1 Ramadan 1429 Hijriah.",
+         "lang":"id",
+         "category1":"Juli",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/07/27",
+         "description":"12 Agustus - Olimpiade 2012 di London-Inggris.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/07/27",
+         "description":"Asian Beach Games 2012 di Haiyang-Republik Rakyat Cina.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/07/27",
+         "description":"Pekan Olahraga Nasional XVIII di Pekanbaru-Riau.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/07/27",
+         "description":"Piala Dunia Wanita U-20 FIFA 2012 di Jepang.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/07/27",
+         "description":"Kota Banda Aceh akan diresmikan kembali setelah 8 tahun Tsunami Aceh.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/07/27",
+         "description":"Nokia secara resmi akan memasarkan ponsel pertama yang memakai Windows Phone 7 pada kuartal 1 2012 secara global",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/08/25",
+         "description":"Neil Armstrong, astronot Amerika Serikat.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/08/25",
+         "description":"'''''2012''''', film yang menceritakan kiamat berdasarkan prediksi bangsa Maya",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/09/24",
+         "description":"Siaran Al-Baghdadia di Baghdad,Irak untuk Acara-acara Al Baghdadia direlay dengan TV Indonesia(RCTI, SCTV, MNCTV (dulu TPI), antv, Indosiar, Metro TV, Trans TV, Trans 7 (dulu TV7), tvOne (dulu Lativi)amp Global TV) .",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/09/26",
+         "description":"SCTV resmi Logo  Baru di Acara Life Everyday.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/09/26",
+         "description":"Maret - Pemilu Presiden Perancis.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/11/06",
+         "description":"Pemilu Presiden Amerika Serikat.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/11/14",
+         "description":"Gerhana Matahari total.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2012/11/14",
+         "description":"Juli - Tour de France ke-99.",
+         "lang":"id",
+         "category1":"September",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2013/01/01",
+         "description":"Kota Marseille Perancis dan Ko\u0161ice Slovakia menjadi Ibukota kebudayaan Eropa.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2013/01/19",
+         "description":"Uni Eropa akan memperkenalkan Surat Izin Mengemudi Eropa.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2013/01/20",
+         "description":"Pelantikan Presiden AS yang terpilih pada 6 November 2012",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2013/01/20",
+         "description":"Juni - Tour de France ke-100.",
+         "lang":"id",
+         "granularity":"year"
+      },
+      "event":{  
+         "date":"2013/05/10",
+         "description":"Gerhana matahari yang akan terjadi di Selatan Pasifik akan terlihat jelas di Australia. <a href=\"http:\/\/eclipse.gsfc.nasa.gov\/SEplot\/SEplot2001\/SE2013May10A.GIF\">http:\/\/eclipse.gsfc.nasa.gov\/SEplot\/SEplot2001\/SE2013May10A.GIF<\/a>",
+         "lang":"id",
+         "granularity":"year"
+      }
+   }
 }
